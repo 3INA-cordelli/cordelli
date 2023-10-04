@@ -1,7 +1,4 @@
-
 package figureGeometriche;
-
-
 
 public class TriangoloScaleno {
     public double l1;
